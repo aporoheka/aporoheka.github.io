@@ -1,0 +1,6 @@
+{
+  "name": "Mapa Offline CABA",
+  "description": "Mapa interactivo offline de la Ciudad de Buenos Aires con herramientas de marcadores georreferenciados en JSON e importador/exportador de paquetes completos de teselas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
